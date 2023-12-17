@@ -1,1 +1,1 @@
-console.log("Hello world, this is a docker demo v2");
+console.log("Hello world, this is a docker demo v3");
