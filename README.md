@@ -1,4 +1,3 @@
-```markdown
 # Dockerizing a Node.js Application
 
 This repository contains a simple Dockerfile to containerize a Node.js application.
@@ -62,4 +61,3 @@ Or directly:
 docker run image_name
 ```
 For a hands-on experience and testing, you can use [Docker Play Lab](https://labs.play-with-docker.com/).
-```
